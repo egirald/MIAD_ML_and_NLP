@@ -1,5 +1,5 @@
 from flask import Flask
-from flask_restx import Api, Resource, fields
+from flask-restx import Api, Resource, fields
 import joblib
 from proyecto1_deployment import transformar
 
